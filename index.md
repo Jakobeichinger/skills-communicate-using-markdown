@@ -12,9 +12,16 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-## Code Example 2: '<h3>
+## Code Example 2: '<h2>
 
-``` javascript
+```
+ javascript
 var myVar = "Hello, world!";
 
 ```
+
+## Tasklist
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
